@@ -1,0 +1,18 @@
+export default[
+    { question:"CM of Karnataka",
+options:["Siddharamiah","Yadayurappa","Kumar swami","S M Krishna"],
+answer:0,
+},
+{ question:"Whose find zero?",
+options:["Arya bhatta","Einstein","Newton","Charles"],
+answer:0,
+},
+{ question:"Convert meter to Kmph",
+options:["18/5","5/18","C","D"],
+answer:1,
+},
+{ question:"Which state is having highest airports?",
+options:["Karnataka","Kerala","Bidhar","Kolkata"],
+answer:2,
+},
+]
